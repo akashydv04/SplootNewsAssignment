@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sploot News Assignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="news_image">news_image</string>
+    <string name="news_title">News Title</string>
+</resources>

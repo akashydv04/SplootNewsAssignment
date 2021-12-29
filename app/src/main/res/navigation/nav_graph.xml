@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/splash">
+
+    <fragment
+        android:id="@+id/splash"
+        android:name="shyam.brekki.splootnewsassignment.fragments.Splash"
+        android:label="Splash" />
+    <fragment
+        android:id="@+id/topHeadLines"
+        android:name="shyam.brekki.splootnewsassignment.fragments.TopHeadLines"
+        android:label="TopHeadLines" />
+    <fragment
+        android:id="@+id/viewFullNewsFragment"
+        android:name="shyam.brekki.splootnewsassignment.fragments.ViewFullNewsFragment"
+        android:label="ViewFullNewsFragment" />
+</navigation>
